@@ -1,4 +1,4 @@
-<h1>Содердание<span class="tocSkip"></span></h1>
+<h1>Содержание<span class="tocSkip"></span></h1>
 <div class="toc"><ul class="toc-item"><li><span><a href="#Итоги-опроса-по-определению-NPS---постановка-задачи" data-toc-modified-id="Итоги-опроса-по-определению-NPS---постановка-задачи-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Итоги опроса по определению NPS - постановка задачи</a></span></li><li><span><a href="#Подключение-к-базе-и-выгрузка-данных" data-toc-modified-id="Подключение-к-базе-и-выгрузка-данных-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Подключение к базе и выгрузка данных</a></span></li><li><span><a href="#Создание-дашборда-в-Tableau" data-toc-modified-id="Создание-дашборда-в-Tableau-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>Создание дашборда в Tableau</a></span></li><li><span><a href="#Создание-презентации-в-pdf" data-toc-modified-id="Создание-презентации-в-pdf-4"><span class="toc-item-num">4&nbsp;&nbsp;</span>Создание презентации в pdf</a></span></li></ul></div>
 
 ## Итоги опроса по определению NPS - постановка задачи
