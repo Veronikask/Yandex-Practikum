@@ -15,6 +15,7 @@
 Заказчик данного исследования — большая телекоммуникационная компания, которая оказывает услуги на территории всего СНГ. Перед компанией стоит задача определить текущий уровень потребительской лояльности, или NPS (от англ. Net Promoter Score) среди клиентов из России. Компания провела опрос. 
 
 Задача данного исследования - подготовка дашборда с итогами опроса. Данные опроса выгрузили в SQLite. Преобразовывать данные с помощью Python нельзя — мы должны использовать только SQL-запросы.
+
 [к Оглавлению](#шаг0)
 
 <a name="шаг2"></a>
@@ -340,6 +341,7 @@ df_user.to_csv('telecomm_csi_tableau.csv', index=False)
 ```
 
 <a name="шаг3"></a>
+
 [к Оглавлению](#шаг0)
 ## 3. Создание дашборда в Tableau
 
@@ -350,6 +352,7 @@ df_user.to_csv('telecomm_csi_tableau.csv', index=False)
 Ниже ссылка на дашборд:
 
 https://public.tableau.com/views/NPS_16450175105840/Dashboard2_NPS?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 [к Оглавлению](#шаг0)
 
 <a name="шаг4"></a>
@@ -364,4 +367,5 @@ https://public.tableau.com/views/NPS_16450175105840/Dashboard2_NPS?:language=en-
 Ответы на данные вопросы были оформлены ввиде презентации. ССылка на презентацию ниже:
 
 https://drive.google.com/file/d/1nJj0sg_feehdE21Xlfdcj8kiGF4WvdLP/view?usp=sharing
+
 [к Оглавлению](#шаг0)
