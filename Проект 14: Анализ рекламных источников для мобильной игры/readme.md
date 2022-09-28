@@ -40,6 +40,7 @@
 ## Ссылка на работу
 [Анализ рекламных источников для мобильной игры](https://github.com/Veronikask/Yandex-Practikum/blob/3b5426dea5b7b3654d11324ecc1d918e139a88ca/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2014:%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D1%85%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%B8%D0%B3%D1%80%D1%8B/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D1%85%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%B8%D0%B3%D1%80%D1%8B.ipynb)
 
+[Ссылка на дашборд Tableau](https://public.tableau.com/views/-1_16629964799270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 [Ссылка на презентацию pdf](https://drive.google.com/file/d/1F30IcXrR_bNo9IOjIKmitTiYuHjHBVwS/view?usp=sharing)
 
-[Ссылка на дашборд Tableau](https://public.tableau.com/views/-1_16629964799270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
